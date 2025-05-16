@@ -24,5 +24,5 @@ No recent blog posts available.
 ## Connect with Me
 
 `{
-    discord : .alwayslg
+    discord : alwayslg
 }`
